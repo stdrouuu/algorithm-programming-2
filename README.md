@@ -1,5 +1,3 @@
-# Algorithm-Programming-2 
-
 This project is a simple CRUD (Create, Read, Update, Delete) application developed for **learning and testing purposes** in the **Algorithm Programming 2** course.
 
 ## Description
